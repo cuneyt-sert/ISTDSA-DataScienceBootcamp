@@ -1,6 +1,6 @@
 # NEW YORK SUBWAY TURNSTİLE DATA
 
-The subject of our project was as follows:
+At the end of the first month of my education at Istanbul Data Science Academy, the subject of the first project I tried to do with my friends was as follows:
 
 The WomenTechWomenYes (WTWY) association has an annual gala at the beginning of summer each year is organizing.
 
